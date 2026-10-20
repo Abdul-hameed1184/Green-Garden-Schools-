@@ -1,0 +1,16 @@
+{
+  "phonePrimary": "+234 800 GGS EDU",
+  "phoneSecondary": "+234 901 234 5678",
+  "emailGeneral": "info@greengardenschools.edu",
+  "emailAdmissions": "admissions@greengardenschools.edu",
+  "addressLine1": "123 Excellence Avenue",
+  "addressLine2": "Green Hills, Lagos, Nigeria",
+  "officeHours": "Mon–Fri, 7:30–16:00",
+  "mapUrl": "https://www.google.com/maps/search/?api=1&query=Green+Hills+Lagos+Nigeria",
+  "socials": {
+    "instagram": "",
+    "facebook": "",
+    "x": "",
+    "linkedin": ""
+  }
+}

@@ -1,0 +1,22 @@
+[
+  {
+    "step": 1,
+    "title": "Submit an Inquiry",
+    "description": "Fill out the inquiry form or contact our admissions office to express interest and receive the prospectus."
+  },
+  {
+    "step": 2,
+    "title": "Tour & Assessment",
+    "description": "Attend an open house or private tour, followed by an age-appropriate entrance assessment."
+  },
+  {
+    "step": 3,
+    "title": "Application & Documents",
+    "description": "Submit the completed application form along with academic records and required documents."
+  },
+  {
+    "step": 4,
+    "title": "Offer & Enrollment",
+    "description": "Successful applicants receive an offer letter; enrolment is confirmed once the acceptance form is returned."
+  }
+]

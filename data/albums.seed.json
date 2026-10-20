@@ -1,0 +1,357 @@
+[
+  {
+    "id": "alb-7",
+    "title": "Eid al-Adha Celebration",
+    "category": "Faith",
+    "status": "Published",
+    "createdAt": "2025-06-10T08:00:00.000Z",
+    "eventDate": "2025-06-10",
+    "location": "School Grounds",
+    "description": "The whole school came together for Eid: takbeer in the morning, a special assembly on the story of Prophet Ibrahim (AS), and a family picnic that filled the grounds with laughter.",
+    "coverSrc": null,
+    "highlights": [
+      {
+        "value": "1,500+",
+        "label": "Guests"
+      },
+      {
+        "value": "1",
+        "label": "Big family"
+      }
+    ],
+    "photos": [
+      {
+        "id": "alb-7-p1",
+        "src": null,
+        "caption": "Morning takbeer"
+      },
+      {
+        "id": "alb-7-p2",
+        "src": null,
+        "caption": "Eid assembly"
+      },
+      {
+        "id": "alb-7-p3",
+        "src": null,
+        "caption": "New clothes, big smiles"
+      },
+      {
+        "id": "alb-7-p4",
+        "src": null,
+        "caption": "Family picnic"
+      },
+      {
+        "id": "alb-7-p5",
+        "src": null,
+        "caption": "Sharing food"
+      },
+      {
+        "id": "alb-7-p6",
+        "src": null,
+        "caption": "Games on the field"
+      },
+      {
+        "id": "alb-7-p7",
+        "src": null,
+        "caption": "Class photo"
+      }
+    ]
+  },
+  {
+    "id": "alb-1",
+    "title": "Autumn Morning",
+    "category": "Campus",
+    "status": "Published",
+    "createdAt": "2024-09-12T08:00:00.000Z",
+    "eventDate": "2024-09-12",
+    "location": "Main Campus",
+    "description": "The first cool morning of the new term, when mist settled over the gardens and the whole school gathered on the lawn for assembly.",
+    "coverSrc": null,
+    "photos": [
+      {
+        "id": "alb-1-p1",
+        "src": null,
+        "caption": "Morning assembly"
+      },
+      {
+        "id": "alb-1-p2",
+        "src": null,
+        "caption": "The garden path"
+      },
+      {
+        "id": "alb-1-p3",
+        "src": null,
+        "caption": "Mist over the chapel"
+      },
+      {
+        "id": "alb-1-p4",
+        "src": null,
+        "caption": "First day smiles"
+      },
+      {
+        "id": "alb-1-p5",
+        "src": null,
+        "caption": "The front gates"
+      },
+      {
+        "id": "alb-1-p6",
+        "src": null,
+        "caption": "Lunch under the trees"
+      }
+    ],
+    "highlights": [
+      {
+        "value": "1,200",
+        "label": "Students"
+      },
+      {
+        "value": "6",
+        "label": "Photos"
+      }
+    ]
+  },
+  {
+    "id": "alb-2",
+    "title": "Chemistry Lab",
+    "category": "Academics",
+    "status": "Published",
+    "createdAt": "2024-08-30T08:00:00.000Z",
+    "eventDate": "2024-08-30",
+    "location": "Advanced Science Wing",
+    "description": "Senior Secondary chemists put theory into practice with a week of hands-on experiments, from titrations to crystal growing.",
+    "coverSrc": null,
+    "photos": [
+      {
+        "id": "alb-2-p1",
+        "src": null,
+        "caption": "Safety first"
+      },
+      {
+        "id": "alb-2-p2",
+        "src": null,
+        "caption": "Titration practice"
+      },
+      {
+        "id": "alb-2-p3",
+        "src": null,
+        "caption": "Colour change"
+      },
+      {
+        "id": "alb-2-p4",
+        "src": null,
+        "caption": "Crystal garden"
+      },
+      {
+        "id": "alb-2-p5",
+        "src": null,
+        "caption": "Lab partners"
+      }
+    ],
+    "highlights": [
+      {
+        "value": "40",
+        "label": "Young chemists"
+      },
+      {
+        "value": "12",
+        "label": "Experiments"
+      }
+    ]
+  },
+  {
+    "id": "alb-3",
+    "title": "The Finals",
+    "category": "Sports",
+    "status": "Review",
+    "createdAt": "2024-09-01T08:00:00.000Z",
+    "eventDate": "2024-09-01",
+    "location": "School Sports Field",
+    "description": "A nail-biting inter-house football final decided in the last minute of extra time.",
+    "coverSrc": null,
+    "photos": [
+      {
+        "id": "alb-3-p1",
+        "src": null,
+        "caption": "Kick-off"
+      },
+      {
+        "id": "alb-3-p2",
+        "src": null,
+        "caption": "The crowd"
+      },
+      {
+        "id": "alb-3-p3",
+        "src": null,
+        "caption": "Half-time talk"
+      },
+      {
+        "id": "alb-3-p4",
+        "src": null,
+        "caption": "The winning goal"
+      },
+      {
+        "id": "alb-3-p5",
+        "src": null,
+        "caption": "Trophy lift"
+      }
+    ],
+    "highlights": [
+      {
+        "value": "2–1",
+        "label": "Final score"
+      },
+      {
+        "value": "4",
+        "label": "Houses"
+      }
+    ]
+  },
+  {
+    "id": "alb-4",
+    "title": "Qur'an Recitation Competition",
+    "category": "Faith",
+    "status": "Published",
+    "createdAt": "2024-07-18T08:00:00.000Z",
+    "eventDate": "2024-07-18",
+    "location": "Main Hall",
+    "description": "Students from every level recited from memory before a panel of judges, closing with a heartfelt du'a and prizes for the best reciters.",
+    "coverSrc": null,
+    "photos": [
+      {
+        "id": "alb-4-p1",
+        "src": null,
+        "caption": "Opening recitation"
+      },
+      {
+        "id": "alb-4-p2",
+        "src": null,
+        "caption": "The judges' panel"
+      },
+      {
+        "id": "alb-4-p3",
+        "src": null,
+        "caption": "Junior category"
+      },
+      {
+        "id": "alb-4-p4",
+        "src": null,
+        "caption": "Senior finalists"
+      },
+      {
+        "id": "alb-4-p5",
+        "src": null,
+        "caption": "Prize giving"
+      },
+      {
+        "id": "alb-4-p6",
+        "src": null,
+        "caption": "Closing du'a"
+      }
+    ],
+    "highlights": [
+      {
+        "value": "86",
+        "label": "Reciters"
+      },
+      {
+        "value": "3",
+        "label": "Categories"
+      },
+      {
+        "value": "12",
+        "label": "Prizes"
+      }
+    ]
+  },
+  {
+    "id": "alb-5",
+    "title": "Robotics Showcase",
+    "category": "Academics",
+    "status": "Published",
+    "createdAt": "2024-06-02T08:00:00.000Z",
+    "eventDate": "2024-06-02",
+    "location": "Digital Innovation Hub",
+    "description": "Students unveiled line-following robots, a solar-powered weather station and a recycling-sorting arm built from scratch.",
+    "coverSrc": null,
+    "photos": [
+      {
+        "id": "alb-5-p1",
+        "src": null,
+        "caption": "Robot parade"
+      },
+      {
+        "id": "alb-5-p2",
+        "src": null,
+        "caption": "Weather station"
+      },
+      {
+        "id": "alb-5-p3",
+        "src": null,
+        "caption": "Code review"
+      },
+      {
+        "id": "alb-5-p4",
+        "src": null,
+        "caption": "Judges' visit"
+      },
+      {
+        "id": "alb-5-p5",
+        "src": null,
+        "caption": "Winners"
+      }
+    ],
+    "highlights": [
+      {
+        "value": "18",
+        "label": "Projects"
+      },
+      {
+        "value": "5",
+        "label": "Awards"
+      }
+    ]
+  },
+  {
+    "id": "alb-6",
+    "title": "Inter-House Sports Day",
+    "category": "Sports",
+    "status": "Archived",
+    "createdAt": "2024-03-14T08:00:00.000Z",
+    "eventDate": "2024-03-14",
+    "location": "School Sports Field",
+    "description": "Relays, long jump and a legendary tug of war as four houses battled for the annual shield.",
+    "coverSrc": null,
+    "photos": [
+      {
+        "id": "alb-6-p1",
+        "src": null,
+        "caption": "March past"
+      },
+      {
+        "id": "alb-6-p2",
+        "src": null,
+        "caption": "100m sprint"
+      },
+      {
+        "id": "alb-6-p3",
+        "src": null,
+        "caption": "Tug of war"
+      },
+      {
+        "id": "alb-6-p4",
+        "src": null,
+        "caption": "House colours"
+      }
+    ],
+    "highlights": [
+      {
+        "value": "4",
+        "label": "Houses"
+      },
+      {
+        "value": "30",
+        "label": "Events"
+      }
+    ]
+  }
+]
